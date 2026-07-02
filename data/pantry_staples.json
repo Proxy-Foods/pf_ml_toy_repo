@@ -1,0 +1,13 @@
+{
+  "category": "pantry_staples",
+  "items": [
+    {"name": "olive oil", "tags": ["fat"]},
+    {"name": "basmati rice", "tags": ["grain"]},
+    {"name": "whole wheat pasta", "tags": ["grain"]},
+    {"name": "coconut milk", "tags": ["dairy-free", "fat"]},
+    {"name": "soy sauce", "tags": ["condiment", "umami"]},
+    {"name": "vegetable stock", "tags": ["liquid base"]},
+    {"name": "lemon", "tags": ["acid", "citrus"]},
+    {"name": "honey", "tags": ["sweetener"]}
+  ]
+}

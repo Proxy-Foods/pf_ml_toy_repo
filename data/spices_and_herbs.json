@@ -1,0 +1,13 @@
+{
+  "category": "spices_and_herbs",
+  "items": [
+    {"name": "smoked paprika", "tags": ["smoky", "warm"]},
+    {"name": "cumin", "tags": ["earthy", "warm"]},
+    {"name": "fresh basil", "tags": ["herb", "aromatic"]},
+    {"name": "fresh cilantro", "tags": ["herb", "aromatic"]},
+    {"name": "chili flakes", "tags": ["spicy"]},
+    {"name": "turmeric", "tags": ["earthy", "warm"]},
+    {"name": "black pepper", "tags": ["pungent"]},
+    {"name": "oregano", "tags": ["herb", "mediterranean"]}
+  ]
+}

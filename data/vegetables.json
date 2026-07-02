@@ -1,0 +1,14 @@
+{
+  "category": "vegetables",
+  "items": [
+    {"name": "red bell pepper", "tags": ["crunchy", "sweet"]},
+    {"name": "broccoli", "tags": ["cruciferous"]},
+    {"name": "spinach", "tags": ["leafy green"]},
+    {"name": "carrot", "tags": ["root", "sweet"]},
+    {"name": "zucchini", "tags": ["summer squash"]},
+    {"name": "red onion", "tags": ["allium"]},
+    {"name": "garlic", "tags": ["allium", "aromatic"]},
+    {"name": "cherry tomatoes", "tags": ["nightshade"]},
+    {"name": "mushrooms", "tags": ["umami"]}
+  ]
+}

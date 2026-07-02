@@ -1,0 +1,13 @@
+{
+  "category": "proteins",
+  "items": [
+    {"name": "chicken breast", "tags": ["poultry", "lean"]},
+    {"name": "salmon fillet", "tags": ["fish", "omega-3"]},
+    {"name": "firm tofu", "tags": ["vegetarian", "vegan", "soy"]},
+    {"name": "chickpeas", "tags": ["vegetarian", "vegan", "legume"]},
+    {"name": "ground beef", "tags": ["red meat"]},
+    {"name": "eggs", "tags": ["vegetarian", "dairy-free"]},
+    {"name": "shrimp", "tags": ["shellfish"]},
+    {"name": "black beans", "tags": ["vegetarian", "vegan", "legume"]}
+  ]
+}
