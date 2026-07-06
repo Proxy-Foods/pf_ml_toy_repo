@@ -3,6 +3,7 @@
     "items": [
         {"name": "chocolate cake","tags": ["sweet", "bakes"]},
         { "name": "cheescake","tags": ["sweet","creamy"] },
-        { "name": "ice cream"  , "tags": ["sweet", "cold" , "creamy"]}
+        { "name": "ice cream"  , "tags": ["sweet", "cold" , "creamy"]},
+        {"name": "brownie", "tags": ["sweet", "chocolate", "bakes"]}
     ]
 }
